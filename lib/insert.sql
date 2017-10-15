@@ -1,0 +1,130 @@
+INSERT INTO bears (
+name,
+age,
+gender,
+color,
+temperament,
+alive
+)
+VALUES
+("Mr.Chocolate",
+10,
+"Male",
+"Brown",
+"Gentle",
+0
+);
+
+INSERT INTO bears (
+name,
+age,
+gender,
+color,
+temperament,
+alive
+)
+VALUES
+("Rowdy",
+  8,
+  "Male",
+  "Black",
+  "Aggressive",
+  1
+);
+
+INSERT INTO bears (
+  name,
+  age,
+  gender,
+  color,
+  temperament,
+  alive
+)
+  VALUES
+  ("Tabitha",
+    20,
+    "Female",
+    "Black",
+    "Gentle",
+    0
+  );
+  INSERT INTO bears (
+    name,
+    age,
+    gender,
+    color,
+    temperament,
+    alive
+  )
+    VALUES
+    ("Sergeant Brown",
+      6,
+      "Male",
+      "Brown",
+      "Aggressive",
+      0
+    );
+    INSERT INTO bears (
+      name,
+      age,
+      gender,
+      color,
+      temperament,
+      alive
+    )
+      VALUES
+      ("Melissa",
+        10,
+        "Female",
+        "Black",
+        "Gentle",
+        1
+      );
+      INSERT INTO bears (
+        name,
+        age,
+        gender,
+        color,
+        temperament,
+        alive
+      )
+    VALUES
+    ("Grinch",
+      24,
+      "Male",
+      "Brown",
+      "Gentle",
+      1
+    );
+    INSERT INTO bears (
+      name,
+      age,
+      gender,
+      color,
+      temperament,
+      alive
+    )
+      VALUES
+      ("Wendy",
+        10,
+        "Female",
+        "Brown",
+        "Happy",
+        1
+      );
+      INSERT INTO bears (
+        name,
+        age,
+        gender,
+        color,
+        temperament,
+        alive
+      )
+        VALUES
+        (Null,
+          10,
+          "Male",
+          "Brown",
+          "Gentle",
+          null
+        );
